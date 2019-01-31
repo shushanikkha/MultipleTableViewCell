@@ -1,0 +1,40 @@
+{
+    "data": {
+        "id": 1,
+        "fullName": "Shushan Khachatryan",
+        "pictureUrl": "shushan",
+        "email": "shushanikkha@gmail.com",
+        "about": "I like travelling along Europe!",
+        "friends": [
+            {
+                "name": "Nora Khachatryan",
+                "pictureUrl": "nora"
+            },
+            {
+                "name": "Mery Hakobyan",
+                 "pictureUrl": "mery"
+            },
+            {
+                "name": "Gayane Stepanyan",
+                "pictureUrl": "gayane"
+            }
+        ],
+        "profileAttributes": [
+            {
+                "key": "Date of birth",
+                "value": "July 17, 1990"
+            },
+            {
+                "key": "Gender",
+                "value": "Female"
+            },
+            {
+                "key": "Height",
+                "value": "165"
+            }
+        ]
+    },
+    "error": 0,
+    "message": "Success"
+    
+}
